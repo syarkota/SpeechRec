@@ -19,7 +19,7 @@ Ensure you have the following installed:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://syar-kota/speechREC.git
    cd your-repo
    ```
 2. Install dependencies:
@@ -28,7 +28,7 @@ Ensure you have the following installed:
    ```
 3. Run the script:
    ```bash
-   python voice_translator.py
+   SpeecREC.py
    ```
 
 ## Usage
